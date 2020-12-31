@@ -9,5 +9,3 @@ if(sum==product):
 	print("Adam Number")
 else:
 	print("not Adam Number")
-
-	
