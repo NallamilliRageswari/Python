@@ -15,7 +15,7 @@ print(mul(a,b))
  
 #Using recursion
 def mul(a,b):
-    if a==0: #a==1 return b
+    if a==0: 
         return 0
     if a%2:
         return b+mul(a//2,b*2)
